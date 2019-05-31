@@ -1,0 +1,64 @@
+.signin form, .signup form{
+	margin-top: 40px;
+}
+
+
+
+
+
+
+#index .row{
+	background: url("../Img/2.jpg") no-repeat center center;
+	background-size: cover;
+}
+#header nav{
+	background-color: transparent;
+}
+.navbar-brand{
+	font-size: 35px;
+	font-family: sans-serif;
+	color: tomato;
+}
+#header ul{
+	float: right;
+}
+nav a{
+	color: white;
+}
+nav a:hover{
+	color:white;
+}
+.border{
+	display: block;
+	margin:auto;
+	width:160px;
+	height:3px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: green;
+}
+h2{
+	text-align: center;
+	color: mediumseagreen;
+}
+p{
+	text-align: center;
+	color: purple;
+}
+img{
+	width: 100%;
+	height:auto;
+}
+#about{
+	margin-top: 5px;
+}
+#about p{
+	text-align: justify;
+	margin:5px;
+}
+footer .row{
+	background-color: pink;
+}
+#gallery{
+	margin-bottom: 20px;
+}
